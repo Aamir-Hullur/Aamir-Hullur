@@ -21,7 +21,7 @@
 🧠 I love breaking down complex datasets and finding patterns that make the world a little smarter.<br>
 ✔ I’m always looking to collaborate with any **Open - Source data science projects**<br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif?raw=true" width="15px"> Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-🎯 I’m currently open for: an `Internship` or a `New Grad` job opportunity, [MY RESUME](https://cd227723-dca8-4391-b75c-fbcc2468da10.filesusr.com/ugd/51e891_5cbf9f21273b48fc89c4b6468535b382.pdf).
+🎯 I’m currently open for: an `Internship` or a `New Grad` job opportunity, [MY RESUME](https://51e891f7-de16-479e-85af-9260560130d9.usrfiles.com/ugd/51e891_85919f1391d048ab94770bdca219759b.pdf).
 <br><br>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
